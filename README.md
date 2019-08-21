@@ -1,7 +1,7 @@
 # swoole-game-framework
 
 * 基于Swoole扩展开游戏服务器框架
-* swoole-game框架怎么安装使用
+* 基于**[swoole-game](https://github.com/jxy918/swoole-game)**框架怎么安装使用
 * 基于swoft框架实现的另一版本：**[swoft-game](https://github.com/jxy918/swoft-game)**
 
 ### 一，概述
