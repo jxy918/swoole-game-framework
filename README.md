@@ -1,5 +1,9 @@
 # swoole-game-framework
 
+[![Latest Stable Version](https://img.shields.io/packagist/v/jxy918/swoole-game-framework.svg)](https://packagist.org/packages/jxy918/swoole-game-framework)
+[![Php Version](https://img.shields.io/badge/php-%3E=7.1-brightgreen.svg?maxAge=2592000)](https://secure.php.net/)
+[![Swoft Doc](https://img.shields.io/badge/docs-passing-green.svg?maxAge=2592000)](https://www.swoft.org/docs)
+
 * 基于Swoole扩展开游戏服务器框架
 * 基于 **[swoole-game](https://github.com/jxy918/swoole-game)** 框架怎么安装使用
 * 基于swoft框架实现的另一版本：**[swoft-game](https://github.com/jxy918/swoft-game)**

@@ -8,7 +8,7 @@
         "php": ">=5.6",
         "ext-swoole": ">=1.9.0",
         "ext-msgpack": "*",
-        "ext-protobuf": "*"
+        "ext-protobuf": "*",
 		"jxy918/swoole-game": "^v1.0.0"
     },
     "authors": [
